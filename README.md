@@ -1,4 +1,1 @@
-# dijstra
-this algorithm is used  c++,so easy to understand
-#GaJsp
-this is use Ga to sovle Job schedule Problem
+用遗传算法解决最短路问题
